@@ -24,7 +24,7 @@ Add a basic README.md. Use it to store your notes and commands.
 
 When VS Code asks: "A build file was modified. Do you want to synchronize the Java classpath/configuration?" Answer "Always" to allow VS Code to generate these artifacts automatically.
 
-<h1>Instructions 4 - Add to POM.xml<h1>
+<h1>Instructions 4 - Add to POM.xml</h1>
 Copy the POM.xml from this repo to yours. Use CTRL-F to search for "isl" for "Intelligent Systems Lab". Change each occurance to match yourname in your groupId instead.
 <h1> Clean, Compile, Create fat jar files.</h1>
 mvn clean, 
